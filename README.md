@@ -23,6 +23,6 @@ v1.1.0
  - 遇到没查到答案的情况，会在结果中显示None
 
 ## 库需求 Package Requirements
-未更新...
+`pip install aircv opencv-python Pillow PyAutoGUI selenium webdriver-manager
 
 
