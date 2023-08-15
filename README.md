@@ -13,6 +13,8 @@ If you downloaded any version before 11:00 AM on August 15, 2023, there might be
 https://github.com/Octopustank/ChaoXingErYaXueXiTong-Tool/releases
 
 ## 使用 Use
+安装好浏览器驱动（也可以选择不安装），安装好Tesseract OCR  
+（见下方【库需求】）
 ### ≤ v1.1.0
  - 在`main.py`中指定好浏览器、插件安装位置(不指定默认使用自动模式)
  - 启动`main.py`后等待Selenium启动
@@ -20,6 +22,9 @@ https://github.com/Octopustank/ChaoXingErYaXueXiTong-Tool/releases
 
 ### ≥ v3.0.0
  - 启动main.pyw，按指示操作即可
+
+### exe文件
+ - 确保文件夹内有完整res目录，打开exe即可
 
 ## 注意 Attention
  - 搜索答案时，因精华吧限制，每4s搜一次
@@ -37,6 +42,6 @@ https://github.com/Octopustank/ChaoXingErYaXueXiTong-Tool/releases
  - Tesseract OCR: https://github.com/tesseract-ocr/tesseract
  - Tesseract for Windows: https://digi.bib.uni-mannheim.de/tesseract/
 #### 安装时需要You Need To Do When Installing:
- - 勾选语言包`chi-sm` - Need language package `chi-sm`
+ - 安装时勾选语言包`chi-sm` - Need language package `chi-sm`
 
 
