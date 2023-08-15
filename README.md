@@ -35,7 +35,7 @@ https://github.com/Octopustank/ChaoXingErYaXueXiTong-Tool/releases
  - Firefox：https://github.com/mozilla/geckodriver
 ### pytesseract所需 - pytesseract Requiry
  - Tesseract OCR: https://github.com/tesseract-ocr/tesseract
- - Tesseract on Windows: https://digi.bib.uni-mannheim.de/tesseract/
+ - Tesseract for Windows: https://digi.bib.uni-mannheim.de/tesseract/
 #### 安装时需要You Need To Do When Installing:
  - 勾选语言包`chi-sm` - Need language package `chi-sm`
 
