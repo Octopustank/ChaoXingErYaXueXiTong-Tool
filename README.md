@@ -1,10 +1,6 @@
 # ChaoXingErYaXueXiTong-Tool
 Python超星尔雅学习通小工具-答题助手
 
-# 公告 Notice
-如果你在2023年8月15日上午11时前下载了任意版本，其中包含一个bug可能导致问题。你可以重新下载修复后的新文件。
-If you downloaded any version before 11:00 AM on August 15, 2023, there might be a bug that could cause issues. You can download the fixed file again.
-
 ## 功能 Features
  - 缘于超星尔雅学习通网站答题文字内容编码未知、难以爬取，故选取【获取截图与OCR文字识别获取题目】的方式
  - Selenium访问精华吧(https://m.jhq8.cn/) 获取答案并展示
