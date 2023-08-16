@@ -26,6 +26,8 @@ https://github.com/Octopustank/ChaoXingErYaXueXiTong-Tool/releases/tag/v3.5.0-Pa
 ## 注意 Attention
  - 搜索答案时，因精华吧限制，每4s搜一次
  - 题目文字不应太小，否则OCR不能识别
+ - 题目没被捕获时，可以尝试更改浏览器缩放
+ - 适当使用屏幕右边框”裁剪“题目至合适长度
  - 遇到没查到答案的情况，会在结果中显示None
 
 ## 库需求 Package Requirements
