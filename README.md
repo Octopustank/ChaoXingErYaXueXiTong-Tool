@@ -5,6 +5,11 @@ Python超星尔雅学习通小工具-答题助手
 #### 本程序提供的答案仅供参考，不保证准确性和有效性。使用者应自行承担答案的后果和责任，作者不承担任何责任。使用本程序即表示您同意此声明。
 #### The answers provided by this program are for reference only and are not guaranteed to be accurate or effective. Users are responsible for the consequences and liabilities of using the answers, and the author assumes no responsibility. By using this program, you agree to this disclaimer.
 
+## BUG fix
+ - IMPORTANT
+
+   2023/8/19 4:00pm : 修复了v1.1.0-v3.5.6所有版本对Edge浏览器的适配问题
+
 ## 功能 Features
  - 缘于超星尔雅学习通网站答题文字内容编码未知、难以爬取，故选取【获取截图与OCR文字识别获取题目】的方式
  - Selenium访问精华吧(https://m.jhq8.cn/) 获取答案并展示
