@@ -24,7 +24,7 @@ https://github.com/Octopustank/ChaoXingErYaXueXiTong-Tool/releases
  - 启动main.pyw，按指示操作即可
 
 ### exe文件
-https://github.com/Octopustank/ChaoXingErYaXueXiTong-Tool/releases/tag/v3.5.2-Packed
+[v3.5.6 exe打包文件下载](https://github.com/Octopustank/ChaoXingErYaXueXiTong-Tool/releases/tag/v3.5.6-Packed)
  - 确保文件夹内有完整res目录，打开exe即可
 
 ## 注意 Attention
