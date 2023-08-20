@@ -41,14 +41,13 @@ https://github.com/Octopustank/ChaoXingErYaXueXiTong-Tool/releases
 
 ## 库需求 Package Requirements
 `pip install aircv opencv-python Pillow PyAutoGUI selenium webdriver-manager pytesseract`  
-### 浏览器驱动 - browser plug-in unit：
+### 浏览器驱动 - browser driver：
  - Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
  - Chrome：http://chromedriver.storage.googleapis.com/index.html
  - Chrome(a mirror in China)：https://registry.npmmirror.com/binary.html?path=chromedriver/
  - Firefox：https://github.com/mozilla/geckodriver
 ### pytesseract所需 - pytesseract Requiry
  - Tesseract OCR: https://github.com/tesseract-ocr/tesseract
- - Tesseract for Windows: https://digi.bib.uni-mannheim.de/tesseract/
 #### 安装时需要You Need To Do When Installing:
  - 安装时勾选语言包`chi-sm` - Need language package `chi-sm`
 
