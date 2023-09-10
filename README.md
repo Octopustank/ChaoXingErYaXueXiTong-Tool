@@ -45,7 +45,7 @@ https://github.com/Octopustank/ChaoXingErYaXueXiTong-Tool/releases
  - Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
  - Chrome：http://chromedriver.storage.googleapis.com/index.html
  - Chrome(a mirror in China)：https://registry.npmmirror.com/binary.html?path=chromedriver/
- - Firefox：https://github.com/mozilla/geckodriver
+ - Firefox( 推荐 )：https://github.com/mozilla/geckodriver
 ### pytesseract所需 - pytesseract Requiry
  - Tesseract OCR: https://github.com/tesseract-ocr/tesseract
 #### 安装时需要You Need To Do When Installing:
