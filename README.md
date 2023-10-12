@@ -1,6 +1,8 @@
 # ChaoXingErYaXueXiTong-Tool
 Python超星尔雅学习通小工具-答题助手
 
+# 注意 Attention 现在答案来源网站已使用验证码阻止了直接查询，处于不可用状态！！！！！！！！！
+
 ## 声明 Statement 
 #### 本程序提供的答案仅供参考，不保证准确性和有效性。使用者应自行承担答案的后果和责任，作者不承担任何责任。使用本程序即表示您同意此声明。
 #### The answers provided by this program are for reference only and are not guaranteed to be accurate or effective. Users are responsible for the consequences and liabilities of using the answers, and the author assumes no responsibility. By using this program, you agree to this disclaimer.
